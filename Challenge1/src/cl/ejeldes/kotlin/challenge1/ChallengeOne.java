@@ -1,4 +1,4 @@
-package cl.ejeldes.kotlin.challenge;
+package cl.ejeldes.kotlin.challenge1;
 
 /**
  * Created by ejeldes on Jul 07, 2019
